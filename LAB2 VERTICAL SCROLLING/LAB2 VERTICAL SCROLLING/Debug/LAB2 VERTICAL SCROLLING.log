@@ -1,0 +1,5 @@
+﻿  Game.cpp
+C:\Users\c00302407\source\repos\LAB2 VERTICAL SCROLLING\LAB2 VERTICAL SCROLLING\Game.cpp(632,40): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\c00302407\source\repos\LAB2 VERTICAL SCROLLING\LAB2 VERTICAL SCROLLING\Game.cpp(632,32): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\c00302407\source\repos\LAB2 VERTICAL SCROLLING\LAB2 VERTICAL SCROLLING\Game.cpp(672,36): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  LAB2 VERTICAL SCROLLING.vcxproj -> C:\Users\c00302407\source\repos\LAB2 VERTICAL SCROLLING\Debug\LAB2 VERTICAL SCROLLING.exe
